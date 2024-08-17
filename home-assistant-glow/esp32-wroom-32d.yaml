@@ -36,7 +36,7 @@ esp32:
 
 packages:
   remote_package:
-    url: https://github.com/klaasnicolaas/home-assistant-glow/
+    url: https://github.com/oole/home-assistant-glow-esp32-wroom-32d/
     ref: "4.1.1"
     files:
       - components/basis.yaml
